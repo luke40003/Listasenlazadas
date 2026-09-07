@@ -1,3 +1,4 @@
+//Natalia Otalora, Lucas Rojas, Alejadra Rojas, Carlos Bernal
 #include <iostream>
 #include "Lista.h"
 
